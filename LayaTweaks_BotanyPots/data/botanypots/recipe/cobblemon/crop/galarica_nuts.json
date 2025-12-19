@@ -1,0 +1,35 @@
+{
+  "bookshelf:load_conditions":
+  [
+    {
+      "type": "bookshelf:block_exists",
+      "values": ["cobblemon:galarica_nuts"]
+    }
+  ],
+  "type": "botanypots:block_derived_crop",
+  "block": "cobblemon:galarica_nuts",
+  "input": {"item": "cobblemon:galarica_nuts"},
+  "grow_time": 1200,
+  "display":
+  {
+    "type": "botanypots:aging",
+    "block": "cobblemon:galarica_nuts"
+  },
+  "drops":
+  [
+    {
+      "type": "botanypots:items",
+      "items":
+      [
+        {
+          "result": {"id": "cobblemon:galarica_nuts"},
+          "chance": 1
+        },
+        {
+          "result": {"id": "cobblemon:galarica_nuts"},
+          "chance": 0.5
+        }
+      ]
+    }
+  ]
+}
