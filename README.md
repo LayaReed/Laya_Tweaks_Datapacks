@@ -23,6 +23,8 @@ Same as before:
 | Big Root | 2 min | 1 bigroot (100%) | 1 bigroot (50%) <br> 1 energy root (25%) |
 | Revival Herb | 5 min | 1 revival herb (100%) <br> 1 pep-up flower (100%) | 1 revival herb (50%) <br> 1 pep-up flower (50%)|
 | Vivichoke | 3 min | 1 vivichoke (100%) | 1 vivichoke (50%) |
+| Galarica Nuts | 1 min | 1 galarica nut (100%) | 1 galarica nut (50%) |
+| Hearty Grains | 1 min | 1 hearty grain (100%) | 1 hearty grain (50%) |
 
 #### [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
 | Crop | Grow Time | Drop | Extra Drops |
