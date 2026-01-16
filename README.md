@@ -46,12 +46,12 @@ Same as before:
 | ------------ | ------------ | ------------ | ------------ |
 | All Crops | 1 min | 1 crop (100%) | 1 crop (50%) |
 
-## [BroCraft Cobblemon Additions](https://modrinth.com/datapack/cobblemon-additions) & [Mayview Modpack](https://www.curseforge.com/minecraft/modpacks/mayview)
-I tweaked the villager trades for BCA village Pokemarts and Department Center to use Mayview coins. I've tried to make a conversion of 1 Relic Coin to 2 Mayview Copper Coins. Since some of the math requred 3 tiers of coins, I've made it so it works with two, so some iron coin conversions will have more than 8 (needed to make 1 gold coin). Everything else about the pack is the exact same.
-
-NOTE: With the Pokemarts in small or medium sized villages, the second villager does not spawn, and I don't know how to fix this. The main one selling things like Pokeballs and Potions is still available. All the Department Store villagers will work. There is one villager who sells items from other addons, please look at the original BroCraft Modrinth link to see more.
-
 #### [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)
 | Crop | Grow Time | Drop | Extra Drops |
 | ------------ | ------------ | ------------ | ------------ |
 | All Crops | 1 min | 1 crop (100%) | 1 crop (50%) |
+
+## [BroCraft Cobblemon Additions](https://modrinth.com/datapack/cobblemon-additions) & [Mayview Modpack](https://www.curseforge.com/minecraft/modpacks/mayview)
+I tweaked the villager trades for BCA village Pokemarts and Department Center to use Mayview coins. I've tried to make a conversion of 1 Relic Coin to 2 Mayview Copper Coins. Since some of the math requred 3 tiers of coins, I've made it so it works with two, so some iron coin conversions will have more than 8 (needed to make 1 gold coin). Everything else about the pack is the exact same.
+
+NOTE: With the Pokemarts in small or medium sized villages, the second villager does not spawn, and I don't know how to fix this. The main one selling things like Pokeballs and Potions is still available. All the Department Store villagers will work. There is one villager who sells items from other addons, please look at the original BroCraft Modrinth link to see more.
